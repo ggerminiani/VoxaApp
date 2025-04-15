@@ -1,3 +1,23 @@
+## Voxa
+
+Este app é um projeto piloto que pretende entregar ao seus usuários uma ferramenta de Transcipt IA.
+
+Com ela será possível:
+
+- Gravar uma reunião;
+- Transcrever o áudio para as falas e agrupando-as pelos participantes (reconhecimento de vozes);
+- Entregar modelos de atas;
+- Gerenciar reuniões e documentos salvos;
+- Atribuir usuários como participantes nas falas;
+- Compartilhar documentos.
+
+Para o desenvolvimento da aplicação do cliente, está sendo utilizado React Native CLI (no framework).
+
+Interessados na contribuição do projeto, podem entrar em contato: gugart@hotmail.com (subject: VOXAPP).
+
+Obrigado!
+____
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
